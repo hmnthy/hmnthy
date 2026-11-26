@@ -12,10 +12,18 @@
 
 I build AI products end to end, from research to production: raw data, models, and live applications that people can use and check.
 
-- 🔬 **NLP research, writing a scientific paper (2026–present):** I am a research member of a joint project between the Faculty of Information Technology of the VNU University of Engineering and Technology (VNU-UET, Vietnam National University, Hanoi) and AI VIET NAM, an advanced AI research and training community. Topic: parameter-efficient continual relation extraction, where a model learns new relation types over time without forgetting the ones it learned before (catastrophic forgetting). Goal: a conference paper submission.
-- 🧵 **Building [Unthreaded](https://unthreaded-analytics.vercel.app):** NLP and statistical analytics on my own Threads channel, with a live RAG retrieval demo.
-- 🏦 **Data Scientist apprentice at Groupe BPCE (2024–2025):** deactivation scoring models (XGBoost, LightGBM) for the Professionals market. The selected model goes to production across the Caisse d'Épargne network in 2026.
-- 📏 I care about methods I can defend: every result comes with its sample size, effect size and uncertainty.
+- 🔬 **NLP research, writing a scientific paper (2026–present)**
+  - Research member of a joint project between the Faculty of Information Technology of the VNU University of Engineering and Technology (VNU-UET, Vietnam National University, Hanoi) and AI VIET NAM, an advanced AI research and training community.
+  - Topic: parameter-efficient continual relation extraction. A model learns new relation types over time without forgetting the ones it learned before (catastrophic forgetting).
+  - Goal: a conference paper submission.
+- 🧵 **Building [Unthreaded](https://unthreaded-analytics.vercel.app)**
+  - NLP and statistical analytics on my own Threads channel.
+  - A live RAG retrieval demo.
+- 🏦 **Data Scientist apprentice at Groupe BPCE (2024–2025)**
+  - Deactivation scoring models (XGBoost, LightGBM) for the Professionals market.
+  - The selected model goes to production across the Caisse d'Épargne network in 2026.
+- 📏 **Methods I can defend**
+  - Every result comes with its sample size, effect size and uncertainty.
 
 ---
 
