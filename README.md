@@ -2,7 +2,7 @@
 
 **Data Scientist · Machine Learning, NLP & Generative AI** · Paris area, France
 
-![AWS Certified Machine Learning Engineer – Associate](https://img.shields.io/badge/AWS%20Certified-ML%20Engineer%20Associate-FF9900)(https://www.credly.com/earner/earned/badge/bad85d28-05dd-4ce8-b56e-7dc7ff0ffe21)
+![AWS Certified Machine Learning Engineer – Associate](https://img.shields.io/badge/AWS%20Certified-ML%20Engineer%20Associate-FF9900)
 ![Available immediately](https://img.shields.io/badge/Available-immediately-2ea44f)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hmnthy-0A66C2)](https://www.linkedin.com/in/hmnthy)
 
