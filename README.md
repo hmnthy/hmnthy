@@ -1,4 +1,4 @@
-# Hi, I'm Thy Huynh 👋
+# Hi, I'm Thy HUYNH 👋
 
 **Data Scientist · Machine Learning, NLP & Generative AI** · Paris area, France
 
