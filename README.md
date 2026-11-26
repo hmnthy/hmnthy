@@ -38,7 +38,6 @@ Analytics for a Threads channel (~1M views/month, French and Vietnamese content)
 |---|---|---|
 | [Malicious behavior detection](https://github.com/hmnthy/malware-detection-sdc) · Sorbonne Data Challenge 2025 | 🥉 3rd prize | Multi-label prediction of 453 behaviors for 23,000+ Windows programs from their control-flow graphs (100 GB). CodeBERT + TF-IDF/SVD + structural features, One-vs-Rest XGBoost, per-behavior thresholds tuned by Bayesian optimization, SHAP. |
 | [Bank churn prediction](https://github.com/hmnthy/bank-churn-prediction-kaggle) · Kaggle 2025 | 🥇 1st place · ROC AUC 0.937 | 15,000 customers. Stack of six models on out-of-fold predictions, with an Optuna-tuned meta-model. |
-| [Credit risk scoring (HMEQ)](https://github.com/hmnthy/credit-risk-scoring-hmeq) · 2025 | Recall 0.80 · precision 0.89 | 5,960 home equity loans. Recall first, because a missed default costs more than a rejected good customer. XGBoost and LightGBM with class weights, then risk segments by profile. |
 
 ---
 
@@ -86,4 +85,4 @@ Python · SQL · R · SAS · VBA · M language (Power Query)
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/hmnthy) is the best way to reach me.
+You can reach me on [LinkedIn](https://www.linkedin.com/in/hmnthy) or by email at [hmnthy@gmail.com](mailto:hmnthy@gmail.com).
