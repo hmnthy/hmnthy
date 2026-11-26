@@ -15,7 +15,7 @@ I build AI products end to end, from research to production: raw data, models, a
 - 🔬 **NLP research, writing a scientific paper (2026–present)**
   - Research member of a joint project between the Faculty of Information Technology of the VNU University of Engineering and Technology (VNU-UET, Vietnam National University, Hanoi) and AI VIET NAM, an advanced AI research and training community.
   - Topic: parameter-efficient continual relation extraction. A model learns new relation types over time without forgetting the ones it learned before (catastrophic forgetting).
-  - Goal: a conference paper submission.
+  - Co-author a scientific paper to be submitted to PAKDD 2027 (Pacific-Asia Conference on Knowledge Discovery and Data Mining) https://www.pakdd2027.org/
 - 🧵 **Building [Unthreaded](https://unthreaded-analytics.vercel.app)**
   - NLP and statistical analytics on my own Threads channel.
   - A live RAG retrieval demo.
