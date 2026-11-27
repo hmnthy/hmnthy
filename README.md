@@ -74,7 +74,7 @@ Each group separates what I have **used in projects and work** from what I was *
 - **Trained:** model and data drift monitoring
 
 ### 💻 Programming
-Python · SQL · R · SAS · VBA · M language (Power Query)
+- Python · SQL · R · SAS · VBA · M language (Power Query)
 
 ### 📊 BI & ways of working
 - **Used:** Power BI · Excel (VBA, Power Query)
