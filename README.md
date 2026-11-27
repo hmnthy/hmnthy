@@ -13,7 +13,7 @@
 I build AI products end to end, from research to production: raw data, models, and live applications that people can use and check. With a background in both marketing and data science, I start from the business decision a team needs to make, then build the data, the model and the tool that support it.
 
 - 🔬 **NLP research, writing scientific papers (2026–present)**
-  - Research member of a joint project between the Faculty of Information Technology of the VNU University of Engineering and Technology (VNU-UET, Vietnam National University, Hanoi) and AI VIET NAM, an advanced AI research and training community.
+  - Research member of a joint project between the Faculty of Information Technology of the University of Engineering and Technology (VNU-UET, Vietnam National University, Hanoi) and AI VIET NAM, an advanced AI research and training community.
   - Topic: parameter-efficient continual relation extraction. A model learns new relation types over time without forgetting the ones it learned before (catastrophic forgetting).
   - Co-author a scientific paper to be submitted to PAKDD 2027 (Pacific-Asia Conference on Knowledge Discovery and Data Mining) https://www.pakdd2027.org/
 - 🧵 **Building [Unthreaded](https://unthreaded-analytics.vercel.app)**
