@@ -70,7 +70,7 @@ Each group separates what I have **used in projects and work** from what I was *
 - **Trained:** Apache Spark / PySpark · Apache Airflow · Apache Kafka · Databricks · AWS (SageMaker · S3 · Glue · Athena · Lambda · Step Functions · Bedrock) · GCP Vertex AI
 
 ### 🚀 MLOps & deployment
-- **Used:** FastAPI · Docker · Git / GitHub · GitHub Actions CI · pytest · uv · Vercel
+- **Used:** FastAPI · Docker · Git / GitHub · GitHub Actions CI · pytest · uv · Vercel · Claude Code (subagents · skills · hooks · MCP) · pre-commit
 - **Trained:** model and data drift monitoring
 
 ### 💻 Programming
